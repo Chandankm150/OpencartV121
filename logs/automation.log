@@ -1,27 +1,112 @@
-2024-05-09 06:50:17 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
-2024-05-09 06:50:17 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
-2024-05-09 06:50:18 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
-2024-05-09 06:50:18 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
-2024-05-09 06:50:19 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
-2024-05-09 06:50:19 INFO  TC001_AccountRegistrationTest:47 - Test passed
-2024-05-09 06:50:19 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
-2024-05-09 06:50:23 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
-2024-05-09 06:50:25 INFO  TC002_LoginTest:41 - ****** Finished TC_002_LoginTest *****
-2024-05-09 07:07:24 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
-2024-05-09 07:07:24 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
-2024-05-09 07:07:24 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
-2024-05-09 07:07:24 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
-2024-05-09 07:07:26 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
-2024-05-09 07:07:26 INFO  TC001_AccountRegistrationTest:47 - Test passed
-2024-05-09 07:07:26 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
-2024-05-09 07:07:30 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
-2024-05-09 07:07:32 INFO  TC002_LoginTest:41 - ****** Finished TC_002_LoginTest *****
-2024-05-09 07:10:46 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
-2024-05-09 07:10:46 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
-2024-05-09 07:10:47 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
-2024-05-09 07:10:47 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
-2024-05-09 07:10:48 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
-2024-05-09 07:10:48 INFO  TC001_AccountRegistrationTest:47 - Test passed
-2024-05-09 07:10:48 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
-2024-05-09 07:10:53 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
-2024-05-09 07:10:55 INFO  TC002_LoginTest:41 - ****** Finished TC_002_LoginTest *****
+2024-10-09 13:05:54 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Farmework\CI-2\OpencartV121\OpencartV121\Master.xml
+
+2024-10-09 13:05:59 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-10-09 13:05:59 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2024-10-09 13:06:00 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-10-09 13:06:00 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-10-09 13:06:01 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2024-10-09 13:06:01 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2024-10-09 13:06:01 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2024-10-09 13:06:04 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2024-10-09 13:09:23 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Farmework\CI-2\OpencartV121\OpencartV121\Master.xml
+
+2024-10-09 13:09:27 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-10-09 13:09:27 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2024-10-09 13:09:27 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-10-09 13:09:27 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-10-09 13:09:29 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2024-10-09 13:09:29 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2024-10-09 13:09:29 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2024-10-09 13:09:32 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2024-10-09 13:09:33 INFO  TC002_LoginTest:41 - ****** Finished TC_002_LoginTest *****
+2024-10-09 13:10:34 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Farmework\CI-2\OpencartV121\OpencartV121\Master.xml
+
+2024-10-09 13:10:38 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-10-09 13:10:38 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2024-10-09 13:10:39 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-10-09 13:10:39 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-10-09 13:10:40 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2024-10-09 13:10:40 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2024-10-09 13:10:40 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2024-10-09 13:10:43 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2024-10-09 13:10:45 INFO  TC002_LoginTest:41 - ****** Finished TC_002_LoginTest *****
+2024-10-09 13:10:48 INFO  TC_004_SearchProductTest:14 -  Starting TC_004_SearchProductTest 
+2024-10-09 13:10:49 INFO  TC_004_SearchProductTest:34 -  Finished TC_004_SearchProductTest 
+2024-10-09 13:10:53 INFO  TC_005_AddToCartPageTest:15 -  Starting TC_005_AddToCartPageTest 
+2024-10-09 13:10:55 INFO  TC_005_AddToCartPageTest:41 -  Finished TC_004_SearchProductTest 
+2024-10-09 13:12:23 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Farmework\CI-2\OpencartV121\OpencartV121\Master.xml
+
+2024-10-09 13:12:26 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-10-09 13:12:27 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2024-10-09 13:12:27 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-10-09 13:12:27 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-10-09 13:12:28 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2024-10-09 13:12:28 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2024-10-09 13:12:28 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2024-10-09 13:12:31 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2024-10-09 13:12:33 INFO  TC002_LoginTest:41 - ****** Finished TC_002_LoginTest *****
+2024-10-09 13:12:36 INFO  TC_004_SearchProductTest:14 -  Starting TC_004_SearchProductTest 
+2024-10-09 13:12:37 INFO  TC_004_SearchProductTest:34 -  Finished TC_004_SearchProductTest 
+2024-10-09 13:12:39 INFO  TC_005_AddToCartPageTest:15 -  Starting TC_005_AddToCartPageTest 
+2024-10-09 13:12:41 INFO  TC_005_AddToCartPageTest:41 -  Finished TC_004_SearchProductTest 
+2024-10-09 13:13:20 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-10-09 13:13:31 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-10-09 13:13:37 INFO  TC003_LoginDDT:79 - ***** Finished TC_003_LoginDDT ******
+2024-10-09 13:13:37 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-10-09 13:13:49 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-10-09 13:14:03 INFO  TC003_LoginDDT:79 - ***** Finished TC_003_LoginDDT ******
+2024-10-09 13:14:03 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-10-09 13:14:09 INFO  TC003_LoginDDT:79 - ***** Finished TC_003_LoginDDT ******
+2024-10-09 13:14:09 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-10-09 13:14:24 INFO  TC003_LoginDDT:79 - ***** Finished TC_003_LoginDDT ******
+2024-10-09 13:46:02 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-10-09 13:46:02 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2024-10-09 13:46:02 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-10-09 13:46:02 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-10-09 13:46:04 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2024-10-09 13:46:04 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2024-10-09 13:46:04 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2024-10-09 13:46:07 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2024-10-09 13:46:09 INFO  TC002_LoginTest:41 - ****** Finished TC_002_LoginTest *****
+2024-10-09 13:46:12 INFO  TC_004_SearchProductTest:14 -  Starting TC_004_SearchProductTest 
+2024-10-09 13:46:13 INFO  TC_004_SearchProductTest:34 -  Finished TC_004_SearchProductTest 
+2024-10-09 13:46:16 INFO  TC_005_AddToCartPageTest:15 -  Starting TC_005_AddToCartPageTest 
+2024-10-09 13:46:17 INFO  TC_005_AddToCartPageTest:41 -  Finished TC_004_SearchProductTest 
+2024-10-09 13:46:58 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-10-09 13:47:09 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-10-09 13:47:15 INFO  TC003_LoginDDT:79 - ***** Finished TC_003_LoginDDT ******
+2024-10-09 13:47:15 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-10-09 13:47:19 INFO  TC003_LoginDDT:79 - ***** Finished TC_003_LoginDDT ******
+2024-10-09 13:47:19 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-10-09 13:47:34 INFO  TC003_LoginDDT:79 - ***** Finished TC_003_LoginDDT ******
+2024-10-09 13:47:34 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-10-09 13:47:39 INFO  TC003_LoginDDT:79 - ***** Finished TC_003_LoginDDT ******
+2024-10-09 13:47:39 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-10-09 13:47:53 INFO  TC003_LoginDDT:79 - ***** Finished TC_003_LoginDDT ******
+2024-10-09 14:00:53 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-10-09 14:00:53 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2024-10-09 14:00:54 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-10-09 14:00:54 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-10-09 14:00:55 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2024-10-09 14:00:55 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2024-10-09 14:00:55 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2024-10-09 14:00:59 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2024-10-09 14:01:01 INFO  TC002_LoginTest:41 - ****** Finished TC_002_LoginTest *****
+2024-10-09 14:01:04 INFO  TC_004_SearchProductTest:14 -  Starting TC_004_SearchProductTest 
+2024-10-09 14:01:05 INFO  TC_004_SearchProductTest:34 -  Finished TC_004_SearchProductTest 
+2024-10-09 14:01:08 INFO  TC_005_AddToCartPageTest:15 -  Starting TC_005_AddToCartPageTest 
+2024-10-09 14:02:02 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-10-09 14:02:13 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-10-09 14:02:18 INFO  TC003_LoginDDT:79 - ***** Finished TC_003_LoginDDT ******
+2024-10-09 14:02:18 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-10-09 14:02:24 INFO  TC003_LoginDDT:79 - ***** Finished TC_003_LoginDDT ******
+2024-10-09 14:02:24 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-10-09 14:02:38 INFO  TC003_LoginDDT:79 - ***** Finished TC_003_LoginDDT ******
+2024-10-09 14:02:38 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-10-09 14:02:43 INFO  TC003_LoginDDT:79 - ***** Finished TC_003_LoginDDT ******
+2024-10-09 14:02:43 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-10-09 14:02:58 INFO  TC003_LoginDDT:79 - ***** Finished TC_003_LoginDDT ******
